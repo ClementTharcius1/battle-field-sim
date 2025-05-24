@@ -1,5 +1,5 @@
-import Army from "./src/models/Army.js";
-import Battle from "./src/models/Battle.js";
+import Army from "./models/Army.js";
+import Battle from "./models/Battle.js";
 
 const myTroops =
   "Spearmen#10;Militia#30;FootArcher#20;LightCavalry#1000;HeavyCavalry#120";
