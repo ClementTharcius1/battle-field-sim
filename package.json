@@ -1,0 +1,17 @@
+{
+  "name": "battle-simulator",
+  "version": "1.0.0",
+  "description": "This is a battle simulation.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "set NODE_ENV=test&& node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "author": "Clement Tharcius D F",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^4.0.0",
+    "jest": "^29.7.0"
+  }
+}
