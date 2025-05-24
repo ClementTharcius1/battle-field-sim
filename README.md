@@ -29,8 +29,8 @@ If there is no possibility to get atleast 3 out of 5 wins in any arrangement, it
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/battle-simulator.git
-cd battle-simulator
+git clone -b development https://github.com/ClementTharcius1/battle-field-sim.git
+cd battle-field-sim
 ```
 
 2. Install dependencies
