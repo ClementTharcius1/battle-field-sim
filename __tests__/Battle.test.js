@@ -1,5 +1,5 @@
-import Army from "../models/Army.js";
-import Battle from "../models/Battle.js";
+import Army from "../src/models/Army.js";
+import Battle from "../src/models/Battle.js";
 
 describe("Battle evaluation", () => {
   it("should find a winning arrangement when possible", () => {

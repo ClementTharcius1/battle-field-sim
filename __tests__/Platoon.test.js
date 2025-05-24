@@ -1,4 +1,4 @@
-import Platoon from "../models/Platoon.js";
+import Platoon from "../src/models/Platoon.js";
 
 describe("Platoon", () => {
   it("should recognize advantages correctly", () => {
